@@ -1,0 +1,6 @@
+streamlit==1.32.2
+gspread==6.0.2
+google-auth==2.27.0
+google-auth-oauthlib==1.2.0
+google-auth-httplib2==0.2.0
+pandas==2.0.3  # Опционално, ако ще работите с данни като DataFrame
